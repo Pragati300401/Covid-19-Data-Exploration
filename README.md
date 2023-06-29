@@ -3,7 +3,7 @@ The pandemic of COVID-19 has disrupted the whole world. It was evolved in china 
 globally. The COVID-19 is a pandemic health crisis which is affecting the economic growth of the
 country. This pandemic COVID-19 has resulted in disruptions in the normal daily life. 
 
-In this project, I have analysed COVID-19 data with Microsoft SQL Server Management Studio.
+In this project, I have analyzed COVID-19 data with Microsoft SQL Server Management Studio.
 The COVID-19 data was sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) starting from February 2020 to April 2021.
 
 ## Questions:
